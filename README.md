@@ -1,5 +1,9 @@
 # Car-Sales-Dashboard
 
+**You can visit Tableau public dashboard by clicking [Here](https://public.tableau.com/app/profile/abishek.james/viz/CarSalesDashboard_17012692696660/Dashboard1)**
+
+![This is an image](https://github.com/abishekjames/Car-Sales-Dashboard/blob/main/Screenshot.png)
+
 ## PROBLEM STATEMENT
 The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
 Sales Overview:
